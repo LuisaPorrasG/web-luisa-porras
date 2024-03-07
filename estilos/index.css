@@ -1,0 +1,25 @@
+.navbar a:hover{ /*EL :HOVER ME SIRVE PARA MODIFICAR SEÑALADOR DE LINK O BOTON*/
+    background: rgb(161, 149, 153); /*AGREGO COLOR CUANDO ESTE ENCIMA DEL LINK*/
+    border-radius: 10%;
+    padding: 1% 1%;
+    color: black;
+}
+
+.img2 { /*ESTILOS PARA LA IMAGEN DE NOSTROS*/
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 50%; /*REDONDEA LA IMAGEN*/
+    margin-top: 12px; /*ME CENRA LA IMAGEN EN EL CUADRO*/
+    border: 6px solid rgb(34, 22, 26); /*BORDE DE LA IMAGEN SOLIDO */
+}
+
+
+
+.skills{
+    color: white;
+}
+
+h2{
+    color: rgb(33, 179, 237);
+}
