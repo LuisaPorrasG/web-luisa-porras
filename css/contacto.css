@@ -5,18 +5,6 @@
     color: black;
 }
 
-.headerCard{
-
-    background-color: rgb(45, 43, 43);
-    color: white;
-}
-
-a{
-    text-decoration: none;
-    color: white;
-}
-
-
-a:active {
-    color: rgb(36, 179, 226);
+body{
+    background-color: #2f9683;
 }
